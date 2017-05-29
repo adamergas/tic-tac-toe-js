@@ -1,0 +1,23 @@
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 315px;
+}
+
+.space {
+  margin: 1px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.prompt {
+  display: flex;
+}
+
+.symbol {
+  width: 40px;
+  height: 40px;
+  margin: 1px;
+  background-color: blue;
+}
